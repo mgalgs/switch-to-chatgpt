@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Switch to ChatGPT Tab",
+    "version": "1.0",
+    "description": "Switches to the ChatGPT tab",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "commands": {
+        "switch-tab": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+Y"
+            },
+            "description": "Switch to ChatGPT Tab"
+        }
+    },
+    "permissions": ["tabs"]
+}
