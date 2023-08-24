@@ -6,7 +6,7 @@ still involves Control-Tab'ing around or clicking on the tab: not efficient
 
 This Firefox extension allows users to switch to their ChatGPT browser tab
 using a keyboard shortcut. By default, the shortcut is set to
-"Ctrl+Shift+Y".
+"Ctrl+Alt+Y".
 
 ## Installation
 
