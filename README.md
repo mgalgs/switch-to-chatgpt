@@ -1,3 +1,5 @@
+![Switch to ChatGPT logo](extension/switch-to-chatgpt-logo_128.png)
+
 # Switch to ChatGPT Tab Extension
 
 It's handy to pin a ChatGPT tab for easy access, but getting to the tab
