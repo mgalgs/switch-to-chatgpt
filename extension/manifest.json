@@ -9,7 +9,7 @@
     "commands": {
         "switch-tab": {
             "suggested_key": {
-                "default": "Ctrl+Shift+Y"
+                "default": "Ctrl+Alt+Y"
             },
             "description": "Switch to ChatGPT Tab"
         }
